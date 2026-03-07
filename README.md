@@ -1,4 +1,4 @@
-## Hi, I'm Alish 👋
+## Hi, I'm Alish 
 
 Computer Networks | Cybersecurity | Linux | DevOps learner  
 
