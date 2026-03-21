@@ -17,17 +17,21 @@ Computer Networks | Cybersecurity | Linux | DevOps learner
 
 ---
 
-## 📌 Goals
-- Build **SOC / Blue Team** expertise  
-- Achieve **cloud & security certifications**  
-- Complete **hands-on labs and projects**  
-
----
-
 ## 🎥 YouTube Channel
 I share labs, networking concepts, and projects:  
 [NetworkViaBits](https://www.youtube.com/@networkviabits)
 
 ---
+
+### CTF (Occasional player)
+username : secRettt
+https://play.picoctf.org/users/secRettt
+
+---
+
+## 📌 Goals 
+- Achieve **cloud & security certifications**  
+- Complete **hands-on labs and projects**
+  
 
 📫 Connect with me on **GitHub, LinkedIn, or YouTube**
