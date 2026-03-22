@@ -33,4 +33,5 @@ I share labs, networking concepts, and projects:
 - Complete **hands-on labs and projects**
   
 
-📫 Connect with me on **GitHub, LinkedIn, or YouTube**
+📫 Connect with me on **GitHub,Gmail, LinkedIn, or YouTube**
+- alishthapa45@gmail.com
