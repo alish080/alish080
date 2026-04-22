@@ -11,6 +11,10 @@ Computer Networks | Cybersecurity | Linux | DevOps learner
     <img src="https://images.credly.com/size/300x340/images/a06a4e98-21bf-49ab-ad70-c61641f26fc8/blob" width="150" style="margin-right:10px;"/>
   </a>
 
+  <a href="https://www.credly.com/badges/7a1e75f8-7b75-446f-91f9-d8e523e0b1a5/public_url">
+    <img src="https://images.credly.com/size/220x220/images/eb17d3c5-12f5-4be9-87b5-a6ccff62a22b/blob" width="150" style="margin-right:10px;"/>
+  </a>
+
   <a href="https://www.credly.com/badges/9d3f2b19-5f80-4350-8d10-02ff51be4432/public_url">
     <img src="https://images.credly.com/size/300x340/images/22a0ece5-ff05-4594-8320-25e55e9ae203/image.png" width="150"/>
   </a>
