@@ -8,6 +8,10 @@ Computer Networks | Cybersecurity | Linux | DevOps learner
 
 <p align="left">
 
+  <a href="https://verify.onecovernepal.com/?id=OCN-INT-26-VD27AE">
+    <img src="./certificates/internship-1.png" width="150"/>
+  </a>
+
 
   <a href="https://www.credly.com/badges/2148bae0-ba9b-42f2-9d99-b7de91606402/public_url">
     <img src="https://images.credly.com/size/300x340/images/a06a4e98-21bf-49ab-ad70-c61641f26fc8/blob" width="150" style="margin-right:10px;"/>
