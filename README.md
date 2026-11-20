@@ -7,6 +7,10 @@ Computer Networks | Cybersecurity | Linux | DevOps learner
 ## 🎓 Certifications & Badges
 
 <p align="left">
+    <a href="https://verify.onecovernepal.com/?id=OCN-INT-26-VD27AE">
+    <img src="/home/alish/Documents/Verified_ Alish Thapa _ Certificate Verification _ One Cover Pvt. Ltd..pdf" width="150" style="margin-right:10px;"/>
+  </a>
+
   <a href="https://www.credly.com/badges/2148bae0-ba9b-42f2-9d99-b7de91606402/public_url">
     <img src="https://images.credly.com/size/300x340/images/a06a4e98-21bf-49ab-ad70-c61641f26fc8/blob" width="150" style="margin-right:10px;"/>
   </a>
