@@ -9,7 +9,7 @@ Computer Networks | Cybersecurity | Linux | DevOps learner
 <p align="left">
 
   <a href="https://verify.onecovernepal.com/?id=OCN-INT-26-VD27AE">
-    <img src="./certificates/internship-2.png" width="150"/>
+    <img src="./certificates/internship-2.png" width="150" style="margin-right:10px;/>
   </a>
 
 
